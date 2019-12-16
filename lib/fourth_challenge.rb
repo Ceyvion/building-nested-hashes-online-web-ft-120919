@@ -20,6 +20,8 @@ epic_tragedy = {
    }
 }
   
-epic_tragedy[:Montague][]
+epic_tragedy[:Montague][:hero][:status] => "Dead"
+
+puts epic_tragedy
 
 end

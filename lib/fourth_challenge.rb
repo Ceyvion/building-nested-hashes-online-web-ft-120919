@@ -20,5 +20,6 @@ epic_tragedy = {
    }
 }
   
+epic_tragedy[:Montague][]
 
 end
